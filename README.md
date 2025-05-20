@@ -1,1 +1,3 @@
 # Personal-Expense-Tracker
+
+Personal Expense Tracker, is a Python application designed to help users track their income and expenses effectively. It provides users with the ability to create a monthly budget, classify expenses, enter transaction information, and compute balances in real-time. The system is built with a menu-driven interface that operates via Anaconda Prompt, making it easy to use for beginners and non-technical users alike. One of the standout features of this app is that it graphically displays expense data in the form of pie and bar charts so that users can easily understand their spending habits.
